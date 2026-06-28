@@ -14,3 +14,8 @@ def inspect(x):
 
 inspect(0)
 inspect(-15)
+
+#how to print data type
+x = True
+print(x)
+print(type(x))
